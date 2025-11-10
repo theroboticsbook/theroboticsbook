@@ -3,8 +3,8 @@ name = "The Robotics Book"
 style = "book"
 
 [menu]
-names = ["Home", "About"]
-links = ["/", "/about"]
+names = ["Home", "About", "Authors", "License"]
+links = ["/", "/about", "/authors", "/license"]
 
 [media]
 include = []
