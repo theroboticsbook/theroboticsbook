@@ -22,6 +22,6 @@ Currently, [Joseph Hobbs](mailto:joseph@theroboticsbook.com) is our only author.
 
 ## Generative AI Statement
 
-In light of the changing social and technological landscape associated with the advancements and widespread usage of generative AI technologies, a statement on generative AI is printed on the dedication page of the text, inside the front cover.  We reproduce this statement here.
+In light of the changing social and technological landscape associated with the advancements and widespread usage of generative AI technologies, a statement on the use of generative AI in preparation of this text is printed on the dedication page of the text, inside the front cover.  We reproduce this statement here.
 
 *We respect the efforts of the many inspired engineers, mathematicians, and computer scientists who are currently advancing the state of the art in generative models for language and vision.  At the same time, we hold ourselves to the highest standard of quality and accountability in the production of educational materials.  Thus, it is both our decision and our guarantee that generative models are not used for creating, revising, copyediting, or proofreading any content, written or otherwise, in this text.*
