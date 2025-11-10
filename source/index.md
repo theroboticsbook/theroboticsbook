@@ -46,10 +46,10 @@ In light of the changing social and technological landscape associated with the 
 and widespread usage of generative AI technologies, a statement on generative AI is printed on the
 dedication page of _The Robotics Book_, inside the front cover.  We reproduce this statement here.
 
-_We respect the efforts of the many inspired engineers, mathematicians, and computer scientists
+We respect the efforts of the many inspired engineers, mathematicians, and computer scientists
 who are currently advancing the state of the art in generative models for language and vision.
 At the same time, we (collectively, everybody whose efforts contributed to the publication of
 this book) hold ourselves to the highest standard of quality and accountability in the production
 of educational materials.  Thus, it is both our decision and our guarantee that generative models
 are not used for creating, revising, copyediting, or proofreading any content, written or otherwise,
-in this text._
+in this text.
