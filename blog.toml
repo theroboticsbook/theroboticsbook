@@ -1,6 +1,7 @@
 [site]
 name = "The Robotics Book"
 style = "book"
+icon = "media/favicon.ico"
 
 [menu]
 names = ["Home", "About", "Authors", "License"]
