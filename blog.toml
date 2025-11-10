@@ -1,5 +1,6 @@
 [site]
 name = "The Robotics Book"
+style = "book"
 
 [menu]
 names = ["Home", "About"]
