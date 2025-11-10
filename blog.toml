@@ -1,0 +1,9 @@
+[site]
+name = "The Robotics Book"
+
+[menu]
+names = ["Home", "About"]
+links = ["/", "/about"]
+
+[media]
+include = []
