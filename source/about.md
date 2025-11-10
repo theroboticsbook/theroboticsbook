@@ -1,4 +1,4 @@
-# About _The Robotics Book_
+# About
 
 ~
 
