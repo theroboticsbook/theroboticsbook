@@ -2,11 +2,11 @@
 
 ~
 
-*The Robotics Book* is a premier, freely accessible textbook written to advance education in the fundamental concepts of robotics engineering.  The text reviews methods of sensing, control, decision-making, and acutation in robotic systems.  It also also explores new horizons in the field of robotics, and we hope it inspires in the reader a deep love and appreciation for the big, beautiful, crazy world of robotics!
+Our textbook, *The Robotics Book*, is a premier, freely accessible textbook written to advance education in the fundamental concepts of robotics engineering.  The text reviews methods of sensing, control, decision-making, and acutation in robotic systems.  It also also explores new horizons in the field of robotics, and we hope it inspires in the reader a deep love and appreciation for the big, beautiful, crazy world of robotics!
 
 ## Publication
 
-*The Robotics Book, First Edition* will be published on __Monday, January 5, 2026__.  Later editions are planned and will be published irregularly as they are completed.
+The *First Edition* of *The Robotics Book* will be published on __Monday, January 5, 2026__.  Later editions are planned and will be published irregularly as they are completed.
 
 The text will be available digitally on this website.  In pursuit of *The Robotics Book*'s mission to make high-quality robotics education more accessible to everybody, and to spread far and wide a passion for robotics, the digital version of *The Robotics Book* will be available __publicly, at no cost__ in perpetuity.  No reader will be asked to create an account or pay for access to the book.
 
