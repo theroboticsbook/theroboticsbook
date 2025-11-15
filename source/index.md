@@ -2,7 +2,7 @@
 
 ~
 
-Our textbook, *The Robotics Book*, is a freely accessible textbook written to advance education in the fundamental concepts of robotics engineering.  The text reviews methods of sensing, control, decision-making, and acutation in robotic systems.  It also also explores new horizons in the field of robotics, and we hope it inspires in the reader a deep love and appreciation for the big, beautiful, crazy world of robotics!
+Our textbook, *The Robotics Book*, is a freely accessible textbook written to advance education in the fundamental concepts of robotics engineering.  The text reviews methods of sensing, control, decision-making, and acutation in robotic systems.  It also explores new horizons in the field of robotics, and we hope it inspires in the reader a deep love and appreciation for the big, beautiful, crazy world of robotics!
 
 ## Publication
 
