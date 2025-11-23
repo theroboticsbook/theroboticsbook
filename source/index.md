@@ -12,6 +12,10 @@ The text will be available digitally on this website.  In pursuit of *The Roboti
 
 For those interested, *The Robotics Book* will also be available in paperback.  This edition will be for purchase, due to the cost of paper, ink, and binding.  However, the cost of the paperback edition will be *only the cost of materials, printing, binding, and shipping*, as necessary.
 
+## License
+
+All content in *The Robotics Book*, unless otherwise specified, is licensed under the [Creative Commons Attribution-ShareAlike-NonCommercial](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.  In summary, any reader may use this text for any non-commercial purpose if he or she provides appropriate attribution.  Furthermore, any reader may, if he or she desires, create a derivative work of this text, under the condition that the derivative work is licensed under the same license as this text.
+
 ## Generative AI Statement
 
 In light of the changing social and technological landscape associated with the advancements and widespread usage of generative AI technologies, a statement on the use of generative AI in preparation of this text is printed on the dedication page of the text, inside the front cover.  We reproduce this statement here.
