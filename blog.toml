@@ -4,8 +4,8 @@ style = "book"
 icon = "media/favicon.ico"
 
 [menu]
-names = ["Home", "About", "Authors", "License"]
-links = ["/", "/about", "/authors", "/license"]
+names = ["Home", "About", "Authors", "Articles"]
+links = ["/", "/about", "/authors", "/articles"]
 
 [media]
 include = []
