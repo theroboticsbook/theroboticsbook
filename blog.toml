@@ -9,3 +9,6 @@ links = ["/", "/about", "/authors", "/license"]
 
 [media]
 include = []
+
+[analytics]
+tag = "analytics-tag.html"
