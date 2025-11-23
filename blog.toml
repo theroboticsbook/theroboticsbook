@@ -8,7 +8,7 @@ names = ["Home", "About", "Authors", "Articles"]
 links = ["/", "/about", "/authors", "/articles"]
 
 [media]
-include = []
+include = ["lecture-notes.pdf"]
 
 [analytics]
 tag = "analytics-tag.html"
