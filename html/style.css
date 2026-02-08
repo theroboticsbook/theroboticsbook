@@ -167,7 +167,7 @@
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
-        width: 100%;
+        width: calc(100% - 384px);
         min-height: 100px;
         height: auto;
         border-radius: 20px;
@@ -288,7 +288,7 @@
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
-        width: 100%;
+        width: calc(100% - 96px);
         min-height: 100px;
         height: auto;
         border-radius: 20px;
