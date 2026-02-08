@@ -175,6 +175,8 @@
         color: black;
         font-size: 24px;
         font-family: "Computer Modern Sans", sans-serif;
+        margin-left: 192px;
+        margin-right: 192px;
     }
 }
 
@@ -294,6 +296,8 @@
         color: black;
         font-size: 48px;
         font-family: "Computer Modern Sans", sans-serif;
+        margin-left: 48px;
+        margin-right: 48px;
     }
 }
 
@@ -377,7 +381,7 @@
         border-radius: 20px;
         text-decoration: none;
         color: black;
-        font-size: 36px;
+        font-size: 18px;
         font-family: "Computer Modern Sans", sans-serif;
     }
 }
