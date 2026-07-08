@@ -6,7 +6,7 @@ Our textbook, *The Robotics Book*, is a freely accessible textbook written to ad
 
 ## Publication
 
-The *First Edition* of *The Robotics Book* will be published on __Monday, January 4, 2027__.  Later editions are planned and will be published irregularly as they are completed.
+The *First Edition* of *The Robotics Book* will be published on __Monday, January 3, 2028__.  Later editions are planned and will be published irregularly as they are completed.
 
 The text will be available digitally on this website.  In pursuit of *The Robotics Book*'s mission to make high-quality robotics education more accessible to everybody, and to spread far and wide a passion for robotics, the digital version of *The Robotics Book* will be available __publicly, at no cost__ in perpetuity.  No reader will be asked to create an account or pay for access to the book.
 
